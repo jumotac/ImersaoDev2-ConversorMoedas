@@ -50,10 +50,6 @@ Trocar as primeiras mensagens na tela com o usuário.
 
 🌐 **Site no Ar:**
 
-[CONVERSOR DE MOEDAS]()
-
-🌐 **Site no Ar:**
-
 [CONVERSOR DE MOEDAS](https://jumotac.github.io/ImersaoDev2-ConversorMoedas/)
 
 
