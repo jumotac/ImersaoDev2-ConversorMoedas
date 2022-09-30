@@ -1,6 +1,6 @@
 | :placard: Vitrine.Dev |     |
 | ------------- | --- |
-| :sparkles: Nome | **ALURA: IMERSÃO DEV 2 - Conversor de Moedas** 
+| :sparkles: Nome | Alura Imersão Dev2 - **Conversor de Moedas** 
 | :label: Tecnologias | JAVASCRIPT, HTML, CSS 
 | :rocket: URL | https://jumotac.github.io/ImersaoDev2-ConversorMoedas/
 | :fire: Desafio | Criar um Conversor de Dólar em Real 
