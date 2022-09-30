@@ -1,4 +1,14 @@
-# IMERSÃO DEV2 :woman_technologist:
+| :placard: Vitrine.Dev |     |
+| ------------- | --- |
+| :sparkles: Nome | **ALURA: IMERSÃO DEV 2 - Conversor de Moedas** 
+| :label: Tecnologias | JAVASCRIPT, HTML, CSS 
+| :rocket: URL | https://jumotac.github.io/ImersaoDev2-ConversorMoedas/
+| :fire: Desafio | Criar um Conversor de Dólar em Real 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/jumotac/ImersaoDev2-ConversorMoedas/master/conversor-moedas.png#vitrinedev)
+
+# IMERSÃO DEV2 
 
 Esse foi o meu primeiro contato com a programação e foi amor a primeira vista! Depois dessa imersão da [ALURA](www.alura.com.br) resolvi desbravar e me dedicar a esse universo tão incrível e apaixonante.
 
@@ -39,6 +49,17 @@ Trocar as primeiras mensagens na tela com o usuário.
 
 
 
+### :wrench:Ferramentas:
+
+Ferramentas utilizadas para auxiliar na execução do projeto:
+
+- **CodePen** - Primeiro editor de código que tive acesso para dar início a esse projeto
+
+- **Visual Studio Code** - editor de código para colocar o projeto no Github;
+
+- **Github** - Para estruturar o portfólio 
+
+
 🔖  **Agradecimentos:**
 
 - [Paulo Silveira](https://www.linkedin.com/in/paulosilveira/);
@@ -48,14 +69,7 @@ Trocar as primeiras mensagens na tela com o usuário.
 
 
 
-🌐 **Site no Ar:**
-
-[CONVERSOR DE MOEDAS](https://jumotac.github.io/ImersaoDev2-ConversorMoedas/)
-
-
-
-![Fotos do PS5 e de muitas moedas](/conversor-moedas.png)
-
+ <p align="center">Desenvolvido 💗 por <a href="https://github.com/jumotac">Ju Mota</a></p>
 
 
 
